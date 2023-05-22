@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">APPET</string>
+    <string name="textClick">click</string>
+    <string name="textFav">Agregado a Favoritos</string>
+    <string name="titulo_tarjeta">Android 5.0</string>
+    <string name="descripcion_tarjeta">Hola A todos </string>
+
+    <!--Parametros de cardview_mascotas-->
+    <string name="pfoto">Foto</string>
+    <string name="pnombre">Nombre</string>
+    <string name="prating">Rating</string>
+    <string name="plista">Lista</string>
+    <string name="blista">blista</string>
+
+    <!--Menu-->
+    <string name="menu_about">Acerca De</string>
+    <string name="menu_contact">Contacto</string>
+    <string name="menu_bluetooth">Bluetooth</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_view">View Image</string>
+    <string name="menu_detail">Detail</string>
+
+    <!--Formulario para ContactActivity-->
+    <string name="fNombre">Nombre</string>
+    <string name="fCorreo">Correo</string>
+    <string name="fMensaje">Mensaje</string>
+    <string name="fEnviar">Enviar</string>
+
+    <!-- Acerca de Petgram -->
+    <string name="AcercaDePetgram">Petgram el mejor amigo de tu mascota</string>
+
+</resources>
